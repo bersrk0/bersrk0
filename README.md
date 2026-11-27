@@ -44,21 +44,21 @@
   <img src="https://cdn.simpleicons.org/paloaltonetworks/F04E23" width="32" height="32" alt="Palo Alto Networks" title="Palo Alto Networks"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cisco/049FD9" width="32" height="32" alt="Cisco" title="Cisco"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/git/F05032" width="32" height="32" alt="Git" title="Git"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/rust/181717/white" width="32" height="32" alt="Rust" title="Rust"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/rust/D34516" width="32" height="32" alt="Rust" title="Rust"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/portswigger/FF6633" width="32" height="32" alt="PortSwigger" title="PortSwigger"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/python/3776AB" width="32" height="32" alt="Python" title="Python"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/terraform/844FBA" width="32" height="32" alt="Terraform" title="Terraform"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/grafana/F46800" width="32" height="32" alt="Grafana" title="Grafana"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/elastic/005571/40C5D3" width="32" height="32" alt="Elastic" title="Elastic"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/splunk/000000/FFFFFF" width="32" height="32" alt="Splunk" title="Splunk"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/splunk/CE0070" width="32" height="32" alt="Splunk" title="Splunk"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/fortinet/EE3124" width="32" height="32" alt="Fortinet" title="Fortinet"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/junipernetworks/84B135" width="32" height="32" alt="Juniper Networks" title="Juniper Networks"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ansible/000000/FFFFFF" width="32" height="32" alt="Ansible" title="Ansible"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ansible/EE0000" width="32" height="32" alt="Ansible" title="Ansible"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="32" height="32" alt="Docker" title="Docker"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/podman/892CA0/C38FE0" width="32" height="32" alt="Podman" title="Podman"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="32" height="32" alt="C++" title="C++"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="32" height="32" alt="Prometheus" title="Prometheus"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/hashcat/181717/white" width="32" height="32" alt="Hashcat" title="Hashcat"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/hashcat/067306" width="32" height="32" alt="Hashcat" title="Hashcat"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="32" height="32" alt="Bash" title="Bash"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/owasp/000000/FFFFFF" width="32" height="32" alt="OWASP" title="OWASP"/>
+  <img src="https://cdn.simpleicons.org/owasp/FFB81B" width="32" height="32" alt="OWASP" title="OWASP"/>
 </p>
